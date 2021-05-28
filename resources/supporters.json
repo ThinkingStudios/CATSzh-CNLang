@@ -1,0 +1,524 @@
+{
+  "news": [
+    {
+      "info": "Have a nice weekend!",
+      "custom_icon": "fire",
+      "disabled": true
+    },{
+      "info": "Happy Halloween!",
+      "custom_icon": "halloween",
+      "disabled": true
+    },{
+      "info": "Merry Christmas and Happy Holidays!",
+      "custom_icon": "christmas",
+      "disabled": true
+    },{
+      "info": "Translations are fixed in CATS v0.11.5! Please update.",
+      "icon": "INFO",
+      "disabled": true
+    },{
+      "info": "It is Wednesday, my dudes",
+      "custom_icon": "wednesday",
+      "disabled": true
+    },{
+      "info": "Happy 2020!",
+      "custom_icon": "fireworks",
+      "disabled": true
+    }
+  ],
+  "supporters": [
+    {
+      "displayname": "Example Person<3             - Name that gets shown and icon name.",
+      "iconname": "Example Person3                 - name of the icon if it differs from the displayname (for incompatible icon chars like '<')",
+      "startdate": "2018-01-24                     - Just an info for us. Date when he got added to the list",
+      "description": "I'm a description            - Description is shown when hovering over the name",
+      "website": "https://www.mycoolwebsite.com    - Makes the name clickable with a link to a website. Setting it to null makes it a button but not clickable",
+      "tier": 1,
+      "disabled": true,
+      "ignored": true,
+
+      "other info 1": " tier: 1                    - Puts the name on top of the list. Only 1 is available currently",
+      "other info 2": " disabled: true             - Hides that person in the list",
+      "other info 3": " ignored: true               - Makes that person not getting reported by the supporter check"
+    },{
+      "displayname": "Xeverian",
+      "startdate": "2018-01-05",
+      "description": "yare yare daze",
+      "disabled": true
+    },{
+      "displayname": "Tupper",
+      "startdate": "2018-02-05",
+      "disabled": true,
+      "ignored": true,
+      "info": "this entry is just here for the original position"
+    },{
+      "displayname": "idea",
+      "startdate": "2018-03-05",
+      "disabled": true
+    },{
+      "displayname": "RadaruS",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Str4fe",
+      "startdate": "2018-01-05"
+    },{
+      "displayname": "Ainrehtea Dal'Nalirtu",
+      "startdate": "2018-02-05",
+      "disabled": true
+    },{
+      "displayname": "Raikin",
+      "startdate": "2018-03-05",
+      "disabled": true
+    },{
+      "displayname": "BerserkerBoreas",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "ihatemondays",
+      "startdate": "2018-01-05",
+      "disabled": true
+    },{
+      "displayname": "Derpmare",
+      "startdate": "2018-02-05",
+      "disabled": true
+    },{
+      "displayname": "Chikan Celeryman",
+      "startdate": "2018-03-05",
+      "disabled": true
+    },{
+      "displayname": "Ashe",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Quadriple",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "abrownbag",
+      "startdate": "2018-04-05",
+      "info": "Cancelled April",
+      "disabled": true
+    },{
+      "displayname": "Azuth",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "goblox",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "m o t h",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Yorx",
+      "startdate": "2018-05-21",
+      "disabled": true
+    },{
+      "displayname": "Tomnautical",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "Lydania",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "Shanie",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Sifu",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Lil Clone",
+      "startdate": "2018-04-05",
+      "info": "Cancelled April",
+      "disabled": true
+    },{
+      "displayname": "Naranar",
+      "startdate": "2018-10-28"
+    },{
+      "displayname": "liquid (retso)",
+      "startdate": "2018-04-05",
+      "info": "Cancelled May",
+      "disabled": true
+    },{
+      "displayname": "Mute_",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "qy_li",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "ReOL",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Rezinion",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Karma",
+      "startdate": "2018-04-05",
+      "disabled": true,
+      "info": "Cancelled November"
+    },{
+      "displayname": "SolarSnowball",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Bones",
+      "startdate": "2018-01-22",
+      "info": "PP 50",
+      "disabled": true
+    },{
+      "displayname": "Axo_",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Dogniss",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Syntion",
+      "startdate": "2018-05-13",
+      "disabled": true
+    },{
+      "displayname": "Sheet_no_mana",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Awrini",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "NekoNatsuki",
+      "startdate": "2018-04-05",
+      "description": "I do what I do, and make what I make. For the people I love and care so much about",
+      "website": "https://www.twitch.tv/nekonatsukivr",
+      "tier": 1,
+      "disabled": true
+    },{
+      "displayname": "AlphaSatanOmega",
+      "startdate": "2018-04-05",
+      "info": "He can stay <3",
+      "ignored": true
+    },{
+      "displayname": "Curio",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "Deathofirish",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Runda",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "Rurikaze",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Brindin_wF",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Serry Jane",
+      "startdate": "2018-04-05"
+    },{
+      "displayname": "GV-97",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "FlippantFeline",
+      "startdate": "2018-04-05",
+      "disabled": true
+    },{
+      "displayname": "Rayduxz",
+      "startdate": "2018-04-05",
+      "description": "All Your Cats Are Belong to Us",
+      "disabled": true
+    },{
+      "displayname": "BemVR",
+      "startdate": "2018-05-14",
+      "disabled": true
+    },{
+      "displayname": "Hizling",
+      "startdate": "2018-05-14",
+      "description": "Lover of Vaizehail"
+    },{
+      "displayname": "Naatiivee1337",
+      "startdate": "2018-05-20",
+      "disabled": true
+    },{
+      "displayname": "Highom<3",
+      "iconname": "Highom3",
+      "startdate": "2018-05-20",
+      "disabled": true,
+      "info": "Cancelled November"
+    },{
+      "displayname": "Skashe",
+      "startdate": "2018-05-24",
+      "disabled": true
+    },{
+      "displayname": "Steinshy",
+      "startdate": "2018-05-31",
+      "disabled": true
+    },{
+      "displayname": "Nubbins",
+      "startdate": "2018-05-31",
+      "disabled": true
+    },{
+      "displayname": "HectikGamez",
+      "startdate": "2018-06-17",
+      "description": "DON'T CLICK ME!\n",
+      "website": "https://www.twitch.tv/hectikgamez",
+      "tier": 1,
+      "disabled": true,
+      "info": "declined november, check back later. june still declined"
+    },{
+      "displayname": "Oclac",
+      "startdate": "2018-06-17",
+      "disabled": true
+    },{
+      "displayname": "Netrosis",
+      "startdate": "2018-06-20",
+      "disabled": true
+    },{
+      "displayname": "Krisu.Miushy",
+      "startdate": "2018-06-21",
+      "description": "I'll support your creations, let's keep the hard work everyone!\n",
+      "website": "https://youtu.be/o7VLdHxHSII",
+      "tier": 1
+    },{
+      "displayname": "Atirion",
+      "startdate": "2018-04-05",
+      "description": "Cats Blender Plugin has given me the opportunity to meet so many awesome people and make so many memories. Biggest thanks to the team!\n",
+      "website": "https://www.twitch.tv/atiriontv",
+      "tier": 1
+    },{
+      "displayname": "Murakumo",
+      "startdate": "2018-07-02",
+      "info": "Was added 4 months late.",
+      "disabled": true
+    },{
+      "displayname": "Tupper",
+      "startdate": "2018-02-05",
+      "description": "Thank you to the Cats Plugin team for making it easy to be who you want to be in VRChat, and to the VRChat community for being the best community on the internet to manage. Don't forget to atlas! (If you don't, I'll know)",
+      "website": "http://dtupper.com/",
+      "tier": 1
+    },{
+      "displayname": "baffler",
+      "startdate": "2018-08-07",
+      "info": "Was added 2 months late. ended may, remove july",
+      "disabled": true
+    },{
+      "displayname": "Aliquem",
+      "startdate": "2018-08-07",
+      "info": "Was added 1 months late.",
+      "description": "Hope to see all of your avatars soon! <3\n",
+      "website": "https://www.twitch.tv/aliquem",
+      "disabled": true
+    },{
+      "displayname": "VRCMods",
+      "startdate": "2018-08-07",
+      "description": "We <3 the VRChat Community",
+      "website": "https://vrcmods.com/",
+      "tier": 1,
+      "disabled": true
+    },{
+      "displayname": "Sir Matrix",
+      "startdate": "2018-09-16",
+      "description": "Just a man that likes to play vrchat when he's not doing army stuff!\n",
+      "website": "http://www.thematrixservers.com/forums/index.php",
+      "tier": 1,
+      "disabled": true
+    },{
+      "displayname": "Lazlo",
+      "startdate": "2018-10-15",
+      "description": "WTB Intelligence ",
+      "website": null,
+      "tier": 1,
+      "disabled": true
+    },{
+      "displayname": "Rincewind",
+      "startdate": "2018-10-28",
+      "disabled": true
+    },{
+      "displayname": "Vanilla Neko",
+      "startdate": "2018-11-08",
+      "description": "Please give me headpats! ^_^\n"
+    },{
+      "displayname": "Q",
+      "startdate": "2018-11-29",
+      "disabled": true
+    },{
+      "displayname": "Nyashks",
+      "startdate": "2018-12-15"
+    },{
+      "displayname": "ARobotDevil",
+      "startdate": "2018-12-15"
+    },{
+      "displayname": "Whittz",
+      "startdate": "2018-12-23"
+    },{
+      "displayname": "Lhun",
+      "startdate": "2018-12-27"
+    },{
+      "displayname": "Googie",
+      "startdate": "2018-12-27",
+      "description": "Much love to the VRChat community and the creators that make it amazing <3\n",
+      "website": "https://www.twitch.tv/googie",
+      "tier": 1
+    },{
+      "displayname": "Tierson",
+      "startdate": "2019-01-01",
+      "disabled": true
+    },{
+      "displayname": "azupwn",
+      "startdate": "2019-01-25",
+      "disabled": true
+    },{
+      "displayname": "liggi",
+      "startdate": "2019-01-25"
+    },{
+      "displayname": "Sashizzl",
+      "startdate": "2019-01-29",
+      "disabled": true
+    },{
+      "displayname": "Sasa",
+      "startdate": "2019-02-15",
+      "disabled": true
+    },{
+      "displayname": "BeardyWalrus",
+      "startdate": "2019-02-15",
+      "disabled": true
+    },{
+      "displayname": "PKCarnage",
+      "startdate": "2019-02-25"
+    },{
+      "displayname": "Yoraiz0r",
+      "startdate": "2019-03-25",
+      "description": "Yoraiz0r is a really awesome supporter",
+      "disabled": true
+    },{
+      "displayname": "honnmaguro",
+      "startdate": "2019-04-05"
+    },{
+      "displayname": "Subcom",
+      "startdate": "2019-04-23",
+      "description": "creating a comfy life for people who enjoy social VR",
+      "website": "www.subcomvr.com",
+      "tier": 1
+    },{
+      "displayname": "Nyako_Sai",
+      "startdate": "2019-05-02"
+    },{
+      "displayname": "Coolcakes",
+      "startdate": "2019-05-06"
+    },{
+      "displayname": "Nacho Replay",
+      "startdate": "2019-05-21",
+      "description": "I put 200 hrs in VrChat in about 2 weeks; I have no regrets",
+      "website": "https://github.com/NachoReplay",
+      "tier": 1,
+      "disabled": true
+    },{
+      "displayname": "Hammey",
+      "startdate": "2019-05-25"
+    },{
+      "displayname": "TabaskoSweet",
+      "startdate": "2019-06-03",
+      "description": "Join this Discord for asset/help on your projects (discord.gg/qhmUUCy)"
+    },{
+      "displayname": "orels1",
+      "startdate": "2019-07-01",
+      "description": "CATS saved me from pulling my hair out more than I would usually do. 10/10 would pledge again",
+      "website": "https://orels.sh",
+      "tier": 1
+    },{
+      "displayname": "CodysUniverse",
+      "startdate": "2019-08-01",
+      "description": "Thanks to this amazing program I was able to make some amazing VRchat character, make alot of friends and have so much fun in doing so!",
+      "website": "https://www.twitch.tv/codysuniverse",
+      "tier": 1
+    },{
+      "displayname": "SiriusSelf",
+      "startdate": "2019-08-11",
+      "description": "Cats is a major part of my workflow and I'll gladly raise a glass to the team behind this impressive piece of work any day",
+      "website": "https://twitter.com/SiriusSelf",
+      "tier": 1
+    },{
+      "displayname": "Ziggy_Stardust_",
+      "startdate": "2019-08-11",
+      "disabled": true
+    },{
+      "displayname": "Anon27",
+      "startdate": "2019-08-17"
+    },{
+      "displayname": "FustyLugs",
+      "startdate": "2019-08-22",
+      "disabled": true
+    },{
+      "displayname": "moonwiz",
+      "startdate": "2019-09-28"
+    },{
+      "displayname": "KnightborneGaming",
+      "startdate": "2019-10-17",
+      "description": "Autistic streamer letting you know to have a great day and keep bringing in the amazing avatars!",
+      "website": "https://www.twitch.tv/knightbornegaming",
+      "tier": 1,
+      "disabled": true
+    },{
+      "displayname": "Kally",
+      "startdate": "2019-12-02"
+    },{
+      "displayname": "CreedyFox",
+      "startdate": "2020-02-01"
+    },{
+      "displayname": "NicoKuroKusagi",
+      "startdate": "2020-02-01"
+    },{
+      "displayname": "BertBOT",
+      "startdate": "2020-02-16"
+    },{
+      "displayname": "DJ-G6PON3",
+      "startdate": "2020-05-11"
+    },{
+      "displayname": "Lucifer MStar",
+      "startdate": "2020-05-28",
+      "description": "Yes! It is me! That guy who makes all the worlds",
+      "website": "https://twitter.com/LuciferMStarVRC"
+    },{
+      "displayname": "♡DAWKY",
+      "startdate": "2020-07-16"
+    },{
+      "displayname": "spacecat",
+      "startdate": "2020-08-14"
+    },{
+      "displayname": "Godfall",
+      "startdate": "2020-09-03",
+      "description": "ahah funnee quote ecks dee",
+      "website": "http://discord.gg/XVkFrKu",
+      "tier": 1
+    },{
+      "displayname": "Wishes",
+      "startdate": "2020-09-25"
+    },{
+      "displayname": "MizuFox",
+      "startdate": "2020-10-21",
+      "description": "Its been my dream to be on here, NOW THAT WE HERE, WE CELEBRATE, DANCE LIEK MICHAEL JACKSON, AWW YEAH, Oh and shout out maaa boi GODFALL, BACK TO DANCIN, HELL YEAAAA VOIDCLUB EBOY, LES GOOO",
+      "website": "https://discord.gg/zJ7Ya27",
+      "tier": 1
+    },{
+      "displayname": "Vyrei",
+      "startdate": "2020-10-21",
+      "description": "thank yu for this convenient application ! lots of luv <3\n",
+      "website": "https://discord.gg/H8kCtxs"
+    },{
+      "displayname": "Cicieaaa",
+      "startdate": "2020-11-03",
+      "description": "I am making avatars with Cats Plugin!",
+      "website": "https://discord.gg/a9VmagS",
+      "tier": 1
+    },{
+      "displayname": "Mordae",
+      "startdate": "2020-11-22"
+    }
+  ]
+}

@@ -8,10 +8,12 @@
 
 ###方法一
 
->把zh-CN.py放到cats-blender-plugin-X-X-X.zip里的translations文件夹里
+>1.把zh-CN.py放到cats-blender-plugin-X-X-X.zip里的translations文件夹里
 
->安装到Blender
+>2.安装到Blender
 
 ###方法二
 
->未更新。。。。（咕）
+>1.下载Releases里的已经打包好的版本
+
+>2.安装到Blender
